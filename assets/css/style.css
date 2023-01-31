@@ -6,7 +6,7 @@
 
 
 body{
-    background-image: url('/assets/images/clock.jpg');
+    background-image: url('../images/clock.jpg');
     background-size: 100%
 }
 
