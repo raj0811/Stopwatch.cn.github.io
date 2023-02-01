@@ -56,7 +56,7 @@ const stopTimer = () => {
 
 const resetTimer = () => {
     clearInterval(intervalId);
-    clock.innerText = "00:00:00"
+    clock.innerText = "00:00:00:0000"
     sec = 0, min = 0, hr = 0,ms=0,check=0;
 
 }
